@@ -1,0 +1,827 @@
+id,image,gender,name,episode
+1,https://rickandmortyapi.com/api/character/avatar/1.jpeg,Male,Rick Sanchez,51
+2,https://rickandmortyapi.com/api/character/avatar/2.jpeg,Male,Morty Smith,51
+3,https://rickandmortyapi.com/api/character/avatar/3.jpeg,Female,Summer Smith,42
+4,https://rickandmortyapi.com/api/character/avatar/4.jpeg,Female,Beth Smith,42
+5,https://rickandmortyapi.com/api/character/avatar/5.jpeg,Male,Jerry Smith,39
+6,https://rickandmortyapi.com/api/character/avatar/6.jpeg,Female,Abadango Cluster Princess,1
+7,https://rickandmortyapi.com/api/character/avatar/7.jpeg,Male,Abradolf Lincler,2
+8,https://rickandmortyapi.com/api/character/avatar/8.jpeg,Male,Adjudicator Rick,1
+9,https://rickandmortyapi.com/api/character/avatar/9.jpeg,Male,Agency Director,1
+10,https://rickandmortyapi.com/api/character/avatar/10.jpeg,Male,Alan Rails,1
+11,https://rickandmortyapi.com/api/character/avatar/11.jpeg,Male,Albert Einstein,1
+12,https://rickandmortyapi.com/api/character/avatar/12.jpeg,Male,Alexander,1
+13,https://rickandmortyapi.com/api/character/avatar/13.jpeg,unknown,Alien Googah,1
+14,https://rickandmortyapi.com/api/character/avatar/14.jpeg,Male,Alien Morty,1
+15,https://rickandmortyapi.com/api/character/avatar/15.jpeg,Male,Alien Rick,1
+16,https://rickandmortyapi.com/api/character/avatar/16.jpeg,Male,Amish Cyborg,1
+17,https://rickandmortyapi.com/api/character/avatar/17.jpeg,Female,Annie,1
+18,https://rickandmortyapi.com/api/character/avatar/18.jpeg,Male,Antenna Morty,2
+19,https://rickandmortyapi.com/api/character/avatar/19.jpeg,Male,Antenna Rick,1
+20,https://rickandmortyapi.com/api/character/avatar/20.jpeg,Male,Ants in my Eyes Johnson,1
+21,https://rickandmortyapi.com/api/character/avatar/21.jpeg,Male,Aqua Morty,2
+22,https://rickandmortyapi.com/api/character/avatar/22.jpeg,Male,Aqua Rick,3
+23,https://rickandmortyapi.com/api/character/avatar/23.jpeg,Male,Arcade Alien,5
+24,https://rickandmortyapi.com/api/character/avatar/24.jpeg,Male,Armagheadon,1
+25,https://rickandmortyapi.com/api/character/avatar/25.jpeg,Male,Armothy,1
+26,https://rickandmortyapi.com/api/character/avatar/26.jpeg,Female,Arthricia,1
+27,https://rickandmortyapi.com/api/character/avatar/27.jpeg,Male,Artist Morty,2
+28,https://rickandmortyapi.com/api/character/avatar/28.jpeg,Male,Attila Starwar,3
+29,https://rickandmortyapi.com/api/character/avatar/29.jpeg,Male,Baby Legs,1
+30,https://rickandmortyapi.com/api/character/avatar/30.jpeg,Male,Baby Poopybutthole,1
+31,https://rickandmortyapi.com/api/character/avatar/31.jpeg,Male,Baby Wizard,1
+32,https://rickandmortyapi.com/api/character/avatar/32.jpeg,Female,Bearded Lady,1
+33,https://rickandmortyapi.com/api/character/avatar/33.jpeg,Male,Beebo,1
+34,https://rickandmortyapi.com/api/character/avatar/34.jpeg,Male,Benjamin,3
+35,https://rickandmortyapi.com/api/character/avatar/35.jpeg,unknown,Bepisian,4
+36,https://rickandmortyapi.com/api/character/avatar/36.jpeg,unknown,Beta-Seven,1
+37,https://rickandmortyapi.com/api/character/avatar/37.jpeg,Female,Beth Sanchez,1
+38,https://rickandmortyapi.com/api/character/avatar/38.jpeg,Female,Beth Smith,8
+39,https://rickandmortyapi.com/api/character/avatar/39.jpeg,Female,Beth Smith,1
+40,https://rickandmortyapi.com/api/character/avatar/40.jpeg,Female,Beth's Mytholog,1
+41,https://rickandmortyapi.com/api/character/avatar/41.jpeg,Female,Big Boobed Waitress,1
+42,https://rickandmortyapi.com/api/character/avatar/42.jpeg,Male,Big Head Morty,1
+43,https://rickandmortyapi.com/api/character/avatar/43.jpeg,Male,Big Morty,1
+44,https://rickandmortyapi.com/api/character/avatar/44.jpeg,Male,Body Guard Morty,1
+45,https://rickandmortyapi.com/api/character/avatar/45.jpeg,Male,Bill,1
+46,https://rickandmortyapi.com/api/character/avatar/46.jpeg,Male,Bill,1
+47,https://rickandmortyapi.com/api/character/avatar/47.jpeg,Male,Birdperson,7
+48,https://rickandmortyapi.com/api/character/avatar/48.jpeg,Male,Black Rick,2
+49,https://rickandmortyapi.com/api/character/avatar/49.jpeg,unknown,Blamph,1
+50,https://rickandmortyapi.com/api/character/avatar/50.jpeg,Male,Blim Blam,1
+51,https://rickandmortyapi.com/api/character/avatar/51.jpeg,Male,Blue Diplomat,1
+52,https://rickandmortyapi.com/api/character/avatar/52.jpeg,Male,Blue Footprint Guy,1
+53,https://rickandmortyapi.com/api/character/avatar/53.jpeg,Male,Blue Shirt Morty,1
+54,https://rickandmortyapi.com/api/character/avatar/54.jpeg,Male,Bobby Moynihan,1
+55,https://rickandmortyapi.com/api/character/avatar/55.jpeg,unknown,Boobloosian,2
+56,https://rickandmortyapi.com/api/character/avatar/56.jpeg,Male,Bootleg Portal Chemist Rick,1
+57,https://rickandmortyapi.com/api/character/avatar/57.jpeg,Male,Borpocian,1
+58,https://rickandmortyapi.com/api/character/avatar/58.jpeg,Male,Brad,4
+59,https://rickandmortyapi.com/api/character/avatar/59.jpeg,Male,Brad Anderson,1
+60,https://rickandmortyapi.com/api/character/avatar/60.jpeg,Female,Calypso,1
+61,https://rickandmortyapi.com/api/character/avatar/61.jpeg,Male,Campaign Manager Morty,1
+62,https://rickandmortyapi.com/api/character/avatar/62.jpeg,Male,Canklanker Thom,1
+63,https://rickandmortyapi.com/api/character/avatar/63.jpeg,Male,Centaur,1
+64,https://rickandmortyapi.com/api/character/avatar/64.jpeg,unknown,Chris,1
+65,https://rickandmortyapi.com/api/character/avatar/65.jpeg,Male,Chris,1
+66,https://rickandmortyapi.com/api/character/avatar/66.jpeg,Male,Coach Feratu (Balik Alistane),1
+67,https://rickandmortyapi.com/api/character/avatar/67.jpeg,Male,Collector,1
+68,https://rickandmortyapi.com/api/character/avatar/68.jpeg,Male,Colossus,1
+69,https://rickandmortyapi.com/api/character/avatar/69.jpeg,Male,Commander Rick,1
+70,https://rickandmortyapi.com/api/character/avatar/70.jpeg,Male,Concerto,1
+71,https://rickandmortyapi.com/api/character/avatar/71.jpeg,unknown,Conroy,1
+72,https://rickandmortyapi.com/api/character/avatar/72.jpeg,Male,Cool Rick,1
+73,https://rickandmortyapi.com/api/character/avatar/73.jpeg,Male,Cop Morty,1
+74,https://rickandmortyapi.com/api/character/avatar/74.jpeg,Male,Cop Rick,1
+75,https://rickandmortyapi.com/api/character/avatar/75.jpeg,unknown,Courier Flap,1
+76,https://rickandmortyapi.com/api/character/avatar/76.jpeg,Male,Cousin Nicky,1
+77,https://rickandmortyapi.com/api/character/avatar/77.jpeg,Male,Cowboy Morty,1
+78,https://rickandmortyapi.com/api/character/avatar/78.jpeg,Male,Cowboy Rick,2
+79,https://rickandmortyapi.com/api/character/avatar/79.jpeg,unknown,Crab Spider,1
+80,https://rickandmortyapi.com/api/character/avatar/80.jpeg,Female,Creepy Little Girl,1
+81,https://rickandmortyapi.com/api/character/avatar/81.jpeg,Male,Crocubot,1
+82,https://rickandmortyapi.com/api/character/avatar/82.jpeg,Male,Cronenberg Rick,2
+83,https://rickandmortyapi.com/api/character/avatar/83.jpeg,Male,Cronenberg Morty,2
+84,https://rickandmortyapi.com/api/character/avatar/84.jpeg,Male,Cult Leader Morty,1
+85,https://rickandmortyapi.com/api/character/avatar/85.jpeg,Male,Cyclops Morty,2
+86,https://rickandmortyapi.com/api/character/avatar/86.jpeg,Male,Cyclops Rick,3
+87,https://rickandmortyapi.com/api/character/avatar/87.jpeg,Female,Cynthia,1
+88,https://rickandmortyapi.com/api/character/avatar/88.jpeg,Female,Cynthia,4
+89,https://rickandmortyapi.com/api/character/avatar/89.jpeg,Male,Dale,1
+90,https://rickandmortyapi.com/api/character/avatar/90.jpeg,Male,Daron Jefferson,1
+91,https://rickandmortyapi.com/api/character/avatar/91.jpeg,Male,David Letterman,1
+92,https://rickandmortyapi.com/api/character/avatar/92.jpeg,Male,Davin,2
+93,https://rickandmortyapi.com/api/character/avatar/93.jpeg,Male,Diablo Verde,1
+94,https://rickandmortyapi.com/api/character/avatar/94.jpeg,Female,Diane Sanchez,2
+95,https://rickandmortyapi.com/api/character/avatar/95.jpeg,unknown,Dipper and Mabel Mortys,1
+96,https://rickandmortyapi.com/api/character/avatar/96.jpeg,unknown,Tuberculosis,1
+97,https://rickandmortyapi.com/api/character/avatar/97.jpeg,unknown,Gonorrhea,1
+98,https://rickandmortyapi.com/api/character/avatar/98.jpeg,unknown,Hepatitis A,1
+99,https://rickandmortyapi.com/api/character/avatar/99.jpeg,unknown,Hepatitis C,1
+100,https://rickandmortyapi.com/api/character/avatar/100.jpeg,unknown,Bubonic Plague,1
+101,https://rickandmortyapi.com/api/character/avatar/101.jpeg,unknown,E. Coli,1
+102,https://rickandmortyapi.com/api/character/avatar/102.jpeg,Female,Donna Gueterman,1
+103,https://rickandmortyapi.com/api/character/avatar/103.jpeg,Male,Doofus Rick,2
+104,https://rickandmortyapi.com/api/character/avatar/104.jpeg,unknown,Doom-Nomitron,1
+105,https://rickandmortyapi.com/api/character/avatar/105.jpeg,Male,Dr. Glip-Glop,1
+106,https://rickandmortyapi.com/api/character/avatar/106.jpeg,Male,Dr. Schmidt,1
+107,https://rickandmortyapi.com/api/character/avatar/107.jpeg,Female,Dr. Wong,2
+108,https://rickandmortyapi.com/api/character/avatar/108.jpeg,Male,Dr. Xenon Bloom,1
+109,https://rickandmortyapi.com/api/character/avatar/109.jpeg,Male,Duck With Muscles,1
+110,https://rickandmortyapi.com/api/character/avatar/110.jpeg,Male,Eli,1
+111,https://rickandmortyapi.com/api/character/avatar/111.jpeg,Female,Eli's Girlfriend,1
+112,https://rickandmortyapi.com/api/character/avatar/112.jpeg,Male,Eric McMan,1
+113,https://rickandmortyapi.com/api/character/avatar/113.jpeg,Male,Eric Stoltz Mask Morty,1
+114,https://rickandmortyapi.com/api/character/avatar/114.jpeg,Male,Ethan,1
+115,https://rickandmortyapi.com/api/character/avatar/115.jpeg,Male,Ethan,2
+116,https://rickandmortyapi.com/api/character/avatar/116.jpeg,Female,Evil Beth Clone,1
+117,https://rickandmortyapi.com/api/character/avatar/117.jpeg,Male,Evil Jerry Clone,1
+118,https://rickandmortyapi.com/api/character/avatar/118.jpeg,Male,Evil Morty,3
+119,https://rickandmortyapi.com/api/character/avatar/119.jpeg,Male,Evil Rick,1
+120,https://rickandmortyapi.com/api/character/avatar/120.jpeg,Female,Evil Summer Clone,1
+121,https://rickandmortyapi.com/api/character/avatar/121.jpeg,Male,Eyehole Man,1
+122,https://rickandmortyapi.com/api/character/avatar/122.jpeg,Male,Fart,1
+123,https://rickandmortyapi.com/api/character/avatar/123.jpeg,Male,Fat Morty,1
+124,https://rickandmortyapi.com/api/character/avatar/124.jpeg,Male,Father Bob,2
+125,https://rickandmortyapi.com/api/character/avatar/125.jpeg,unknown,Flansian,3
+126,https://rickandmortyapi.com/api/character/avatar/126.jpeg,unknown,Fleeb,1
+127,https://rickandmortyapi.com/api/character/avatar/127.jpeg,Male,Frank Palicky,1
+128,https://rickandmortyapi.com/api/character/avatar/128.jpeg,Male,Frankenstein's Monster,1
+129,https://rickandmortyapi.com/api/character/avatar/129.jpeg,Female,Fulgora,3
+130,https://rickandmortyapi.com/api/character/avatar/130.jpeg,Male,Galactic Federation President,1
+131,https://rickandmortyapi.com/api/character/avatar/131.jpeg,Male,Gar Gloonch,3
+132,https://rickandmortyapi.com/api/character/avatar/132.jpeg,Male,Gar's Mytholog,1
+133,https://rickandmortyapi.com/api/character/avatar/133.jpeg,Male,Garblovian,3
+134,https://rickandmortyapi.com/api/character/avatar/134.jpeg,Male,Garmanarnar,1
+135,https://rickandmortyapi.com/api/character/avatar/135.jpeg,Male,Garment District Rick,1
+136,https://rickandmortyapi.com/api/character/avatar/136.jpeg,Male,Gazorpazorpfield,2
+137,https://rickandmortyapi.com/api/character/avatar/137.jpeg,Male,Gene,2
+138,https://rickandmortyapi.com/api/character/avatar/138.jpeg,Male,General Nathan,1
+139,https://rickandmortyapi.com/api/character/avatar/139.jpeg,Male,General Store Owner,1
+140,https://rickandmortyapi.com/api/character/avatar/140.jpeg,Male,Genital Washer,1
+141,https://rickandmortyapi.com/api/character/avatar/141.jpeg,Genderless,Ghost in a Jar,1
+142,https://rickandmortyapi.com/api/character/avatar/142.jpeg,unknown,Gibble Snake,1
+143,https://rickandmortyapi.com/api/character/avatar/143.jpeg,Male,Glasses Morty,1
+144,https://rickandmortyapi.com/api/character/avatar/144.jpeg,Male,Glenn,1
+145,https://rickandmortyapi.com/api/character/avatar/145.jpeg,Male,Glenn,1
+146,https://rickandmortyapi.com/api/character/avatar/146.jpeg,Male,Glexo Slim Slom,1
+147,https://rickandmortyapi.com/api/character/avatar/147.jpeg,Male,Gobo,1
+148,https://rickandmortyapi.com/api/character/avatar/148.jpeg,Female,Goddess Beth,1
+149,https://rickandmortyapi.com/api/character/avatar/149.jpeg,Male,Gordon Lunas,1
+150,https://rickandmortyapi.com/api/character/avatar/150.jpeg,Male,Cornvelious Daniel,1
+151,https://rickandmortyapi.com/api/character/avatar/151.jpeg,Female,Gwendolyn,1
+152,https://rickandmortyapi.com/api/character/avatar/152.jpeg,Male,Hammerhead Morty,2
+153,https://rickandmortyapi.com/api/character/avatar/153.jpeg,unknown,Hamster In Butt,2
+154,https://rickandmortyapi.com/api/character/avatar/154.jpeg,Male,Hamurai,1
+155,https://rickandmortyapi.com/api/character/avatar/155.jpeg,Male,Harold,1
+156,https://rickandmortyapi.com/api/character/avatar/156.jpeg,Male,Hemorrhage,1
+157,https://rickandmortyapi.com/api/character/avatar/157.jpeg,Genderless,Hole in the Wall Where the Men Can See it All,1
+158,https://rickandmortyapi.com/api/character/avatar/158.jpeg,unknown,Hookah Alien,1
+159,https://rickandmortyapi.com/api/character/avatar/159.jpeg,Male,Hunter,1
+160,https://rickandmortyapi.com/api/character/avatar/160.jpeg,Male,Hunter's Father,1
+161,https://rickandmortyapi.com/api/character/avatar/161.jpeg,Female,Hydrogen-F,1
+162,https://rickandmortyapi.com/api/character/avatar/162.jpeg,Male,Ice-T,1
+163,https://rickandmortyapi.com/api/character/avatar/163.jpeg,Male,Ideal Jerry,1
+164,https://rickandmortyapi.com/api/character/avatar/164.jpeg,Male,Insurance Rick,1
+165,https://rickandmortyapi.com/api/character/avatar/165.jpeg,Male,Investigator Rick,1
+166,https://rickandmortyapi.com/api/character/avatar/166.jpeg,Male,Invisi-trooper,1
+167,https://rickandmortyapi.com/api/character/avatar/167.jpeg,unknown,Izzy,1
+168,https://rickandmortyapi.com/api/character/avatar/168.jpeg,Female,Jackie,1
+169,https://rickandmortyapi.com/api/character/avatar/169.jpeg,Male,Jacob,2
+170,https://rickandmortyapi.com/api/character/avatar/170.jpeg,Female,Jacqueline,1
+171,https://rickandmortyapi.com/api/character/avatar/171.jpeg,Male,Jaguar,1
+172,https://rickandmortyapi.com/api/character/avatar/172.jpeg,Male,Jamey,1
+173,https://rickandmortyapi.com/api/character/avatar/173.jpeg,Male,Jan-Michael Vincent,1
+174,https://rickandmortyapi.com/api/character/avatar/174.jpeg,Male,Jerry 5-126,1
+175,https://rickandmortyapi.com/api/character/avatar/175.jpeg,Male,Jerry Smith,7
+176,https://rickandmortyapi.com/api/character/avatar/176.jpeg,Male,Celebrity Jerry,1
+177,https://rickandmortyapi.com/api/character/avatar/177.jpeg,Male,Jerry Smith,1
+178,https://rickandmortyapi.com/api/character/avatar/178.jpeg,Male,Jerry's Mytholog,1
+179,https://rickandmortyapi.com/api/character/avatar/179.jpeg,Female,Jessica,3
+180,https://rickandmortyapi.com/api/character/avatar/180.jpeg,Female,Jessica,12
+181,https://rickandmortyapi.com/api/character/avatar/181.jpeg,Female,Jessica's Friend,8
+182,https://rickandmortyapi.com/api/character/avatar/182.jpeg,Male,Jim,1
+183,https://rickandmortyapi.com/api/character/avatar/183.jpeg,Male,Johnny Depp,1
+184,https://rickandmortyapi.com/api/character/avatar/184.jpeg,Male,Jon,1
+185,https://rickandmortyapi.com/api/character/avatar/185.jpeg,Male,Joseph Eli Lipkip,1
+186,https://rickandmortyapi.com/api/character/avatar/186.jpeg,Female,Joyce Smith,1
+187,https://rickandmortyapi.com/api/character/avatar/187.jpeg,Male,Juggling Rick,1
+188,https://rickandmortyapi.com/api/character/avatar/188.jpeg,Female,Karen Entity,1
+189,https://rickandmortyapi.com/api/character/avatar/189.jpeg,Female,Katarina,1
+190,https://rickandmortyapi.com/api/character/avatar/190.jpeg,Female,Keara,1
+191,https://rickandmortyapi.com/api/character/avatar/191.jpeg,Male,Kevin,1
+192,https://rickandmortyapi.com/api/character/avatar/192.jpeg,Male,King Flippy Nips,1
+193,https://rickandmortyapi.com/api/character/avatar/193.jpeg,Male,King Jellybean,1
+194,https://rickandmortyapi.com/api/character/avatar/194.jpeg,unknown,Kozbian,1
+195,https://rickandmortyapi.com/api/character/avatar/195.jpeg,Female,Kristen Stewart,1
+196,https://rickandmortyapi.com/api/character/avatar/196.jpeg,Male,Krombopulos Michael,1
+197,https://rickandmortyapi.com/api/character/avatar/197.jpeg,Male,Kyle,1
+198,https://rickandmortyapi.com/api/character/avatar/198.jpeg,Female,Lady Katana,1
+199,https://rickandmortyapi.com/api/character/avatar/199.jpeg,unknown,Larva Alien,3
+200,https://rickandmortyapi.com/api/character/avatar/200.jpeg,Male,Lawyer Morty,1
+201,https://rickandmortyapi.com/api/character/avatar/201.jpeg,Male,Leonard Smith,1
+202,https://rickandmortyapi.com/api/character/avatar/202.jpeg,Male,Lighthouse Keeper,1
+203,https://rickandmortyapi.com/api/character/avatar/203.jpeg,Male,Lil B,2
+204,https://rickandmortyapi.com/api/character/avatar/204.jpeg,Female,Lisa,1
+205,https://rickandmortyapi.com/api/character/avatar/205.jpeg,Male,Little Dipper,1
+206,https://rickandmortyapi.com/api/character/avatar/206.jpeg,Male,Lizard Morty,1
+207,https://rickandmortyapi.com/api/character/avatar/207.jpeg,Male,Loggins,3
+208,https://rickandmortyapi.com/api/character/avatar/208.jpeg,Male,Logic,1
+209,https://rickandmortyapi.com/api/character/avatar/209.jpeg,Male,Long Sleeved Morty,1
+210,https://rickandmortyapi.com/api/character/avatar/210.jpeg,Female,Lucy,1
+211,https://rickandmortyapi.com/api/character/avatar/211.jpeg,Female,Ma-Sha,1
+212,https://rickandmortyapi.com/api/character/avatar/212.jpeg,Male,Magma-Q,1
+213,https://rickandmortyapi.com/api/character/avatar/213.jpeg,Male,Magnesium-J,1
+214,https://rickandmortyapi.com/api/character/avatar/214.jpeg,Male,Man Painted Silver Who Makes Robot Noises,1
+215,https://rickandmortyapi.com/api/character/avatar/215.jpeg,Male,Maximums Rickimus,3
+216,https://rickandmortyapi.com/api/character/avatar/216.jpeg,Male,MC Haps,3
+217,https://rickandmortyapi.com/api/character/avatar/217.jpeg,Male,Mechanical Morty,1
+218,https://rickandmortyapi.com/api/character/avatar/218.jpeg,Male,Mechanical Rick,1
+219,https://rickandmortyapi.com/api/character/avatar/219.jpeg,Female,Mechanical Summer,1
+220,https://rickandmortyapi.com/api/character/avatar/220.jpeg,Male,Mega Fruit Farmer Rick,1
+221,https://rickandmortyapi.com/api/character/avatar/221.jpeg,Female,Melissa,1
+222,https://rickandmortyapi.com/api/character/avatar/222.jpeg,Male,Michael Denny and the Denny Singers,1
+223,https://rickandmortyapi.com/api/character/avatar/223.jpeg,Male,Michael Jenkins,1
+224,https://rickandmortyapi.com/api/character/avatar/224.jpeg,Male,Michael McLick,1
+225,https://rickandmortyapi.com/api/character/avatar/225.jpeg,Male,Michael Thompson,1
+226,https://rickandmortyapi.com/api/character/avatar/226.jpeg,Male,Million Ants,1
+227,https://rickandmortyapi.com/api/character/avatar/227.jpeg,Male,Mitch,1
+228,https://rickandmortyapi.com/api/character/avatar/228.jpeg,Male,Mohawk Guy,1
+229,https://rickandmortyapi.com/api/character/avatar/229.jpeg,Male,Morty Mart Manager Morty,1
+230,https://rickandmortyapi.com/api/character/avatar/230.jpeg,Male,Morty Jr.,1
+231,https://rickandmortyapi.com/api/character/avatar/231.jpeg,Male,Morty Rick,1
+232,https://rickandmortyapi.com/api/character/avatar/232.jpeg,Male,Morty Smith,1
+233,https://rickandmortyapi.com/api/character/avatar/233.jpeg,Male,Morty K-22,1
+234,https://rickandmortyapi.com/api/character/avatar/234.jpeg,Male,Morty Smith,1
+235,https://rickandmortyapi.com/api/character/avatar/235.jpeg,Male,Mortytown Loco,1
+236,https://rickandmortyapi.com/api/character/avatar/236.jpeg,Male,Mr. Beauregard,1
+237,https://rickandmortyapi.com/api/character/avatar/237.jpeg,Male,Mr. Benson,1
+238,https://rickandmortyapi.com/api/character/avatar/238.jpeg,Male,Mr. Booby Buyer,1
+239,https://rickandmortyapi.com/api/character/avatar/239.jpeg,Male,Mr. Goldenfold,4
+240,https://rickandmortyapi.com/api/character/avatar/240.jpeg,Male,Mr. Goldenfold,10
+241,https://rickandmortyapi.com/api/character/avatar/241.jpeg,Male,Mr. Marklovitz,2
+242,https://rickandmortyapi.com/api/character/avatar/242.jpeg,Male,Mr. Meeseeks,5
+243,https://rickandmortyapi.com/api/character/avatar/243.jpeg,Male,Mr. Needful,1
+244,https://rickandmortyapi.com/api/character/avatar/244.jpeg,Male,Mr. Poopybutthole,7
+245,https://rickandmortyapi.com/api/character/avatar/245.jpeg,Female,Mrs. Lipkip,1
+246,https://rickandmortyapi.com/api/character/avatar/246.jpeg,Female,Mrs. Pancakes,2
+247,https://rickandmortyapi.com/api/character/avatar/247.jpeg,Female,Amy Poopybutthole,1
+248,https://rickandmortyapi.com/api/character/avatar/248.jpeg,Female,Mrs. Refrigerator,1
+249,https://rickandmortyapi.com/api/character/avatar/249.jpeg,Female,Mrs. Sanchez,4
+250,https://rickandmortyapi.com/api/character/avatar/250.jpeg,Female,Mrs. Sullivan,1
+251,https://rickandmortyapi.com/api/character/avatar/251.jpeg,Female,Nancy,6
+252,https://rickandmortyapi.com/api/character/avatar/252.jpeg,Male,Noob-Noob,1
+253,https://rickandmortyapi.com/api/character/avatar/253.jpeg,unknown,Numbericon,1
+254,https://rickandmortyapi.com/api/character/avatar/254.jpeg,Male,Octopus Man,1
+255,https://rickandmortyapi.com/api/character/avatar/255.jpeg,Male,Orthodox Jew,1
+256,https://rickandmortyapi.com/api/character/avatar/256.jpeg,Male,Pat Gueterman,1
+257,https://rickandmortyapi.com/api/character/avatar/257.jpeg,Male,Paul Fleishman,1
+258,https://rickandmortyapi.com/api/character/avatar/258.jpeg,Male,Pawnshop Clerk,1
+259,https://rickandmortyapi.com/api/character/avatar/259.jpeg,Male,Pencilvester,1
+260,https://rickandmortyapi.com/api/character/avatar/260.jpeg,Male,Phillip Jacobs,1
+261,https://rickandmortyapi.com/api/character/avatar/261.jpeg,Male,Photography Cyborg,1
+262,https://rickandmortyapi.com/api/character/avatar/262.jpeg,unknown,Photography Raptor,1
+263,https://rickandmortyapi.com/api/character/avatar/263.jpeg,Male,Pibbles Bodyguard,1
+264,https://rickandmortyapi.com/api/character/avatar/264.jpeg,Male,Pichael Thompson,1
+265,https://rickandmortyapi.com/api/character/avatar/265.jpeg,Male,Pickle Rick,1
+266,https://rickandmortyapi.com/api/character/avatar/266.jpeg,Genderless,Piece of Toast,2
+267,https://rickandmortyapi.com/api/character/avatar/267.jpeg,Male,Plumber Rick,1
+268,https://rickandmortyapi.com/api/character/avatar/268.jpeg,Male,Poncho,1
+269,https://rickandmortyapi.com/api/character/avatar/269.jpeg,Female,Presidentress of The Mega Gargantuans,1
+270,https://rickandmortyapi.com/api/character/avatar/270.jpeg,Male,Prince Nebulon,1
+271,https://rickandmortyapi.com/api/character/avatar/271.jpeg,Male,Principal Vagina,3
+272,https://rickandmortyapi.com/api/character/avatar/272.jpeg,Male,Principal Vagina,6
+273,https://rickandmortyapi.com/api/character/avatar/273.jpeg,Male,Purge Planet Ruler,1
+274,https://rickandmortyapi.com/api/character/avatar/274.jpeg,Male,Quantum Rick,3
+275,https://rickandmortyapi.com/api/character/avatar/275.jpeg,Male,Randy Dicknose,1
+276,https://rickandmortyapi.com/api/character/avatar/276.jpeg,unknown,Rat Boss,1
+277,https://rickandmortyapi.com/api/character/avatar/277.jpeg,Male,Real Fake Doors Salesman,1
+278,https://rickandmortyapi.com/api/character/avatar/278.jpeg,Male,Regional Manager Rick,1
+279,https://rickandmortyapi.com/api/character/avatar/279.jpeg,Male,Regular Legs,1
+280,https://rickandmortyapi.com/api/character/avatar/280.jpeg,Male,Reverse Giraffe,1
+281,https://rickandmortyapi.com/api/character/avatar/281.jpeg,Male,Reverse Rick Outrage,1
+282,https://rickandmortyapi.com/api/character/avatar/282.jpeg,Male,Revolio Clockberg Jr.,3
+283,https://rickandmortyapi.com/api/character/avatar/283.jpeg,Male,Rick D. Sanchez III,1
+284,https://rickandmortyapi.com/api/character/avatar/284.jpeg,Male,Rick Guilt Rick,1
+285,https://rickandmortyapi.com/api/character/avatar/285.jpeg,Male,Rick Prime,2
+286,https://rickandmortyapi.com/api/character/avatar/286.jpeg,Male,Rick D-99,1
+287,https://rickandmortyapi.com/api/character/avatar/287.jpeg,Male,Rick D716,1
+288,https://rickandmortyapi.com/api/character/avatar/288.jpeg,Male,Rick D716-B,1
+289,https://rickandmortyapi.com/api/character/avatar/289.jpeg,Male,Rick D716-C,1
+290,https://rickandmortyapi.com/api/character/avatar/290.jpeg,Male,Rick Sanchez,1
+291,https://rickandmortyapi.com/api/character/avatar/291.jpeg,Male,Rick J-22,1
+292,https://rickandmortyapi.com/api/character/avatar/292.jpeg,Male,Rick K-22,1
+293,https://rickandmortyapi.com/api/character/avatar/293.jpeg,Male,Rick Sanchez,1
+294,https://rickandmortyapi.com/api/character/avatar/294.jpeg,Male,Ricktiminus Sancheziminius,3
+295,https://rickandmortyapi.com/api/character/avatar/295.jpeg,Male,Riq IV,3
+296,https://rickandmortyapi.com/api/character/avatar/296.jpeg,Male,Risotto Groupon,1
+297,https://rickandmortyapi.com/api/character/avatar/297.jpeg,Male,Risotto's Tentacled Henchman,1
+298,https://rickandmortyapi.com/api/character/avatar/298.jpeg,Male,Robot Morty,1
+299,https://rickandmortyapi.com/api/character/avatar/299.jpeg,Male,Robot Rick,1
+300,https://rickandmortyapi.com/api/character/avatar/300.jpeg,Male,Roger,1
+301,https://rickandmortyapi.com/api/character/avatar/301.jpeg,Male,Ron Benson,1
+302,https://rickandmortyapi.com/api/character/avatar/302.jpeg,Male,Ruben,1
+303,https://rickandmortyapi.com/api/character/avatar/303.jpeg,Female,Samantha,1
+304,https://rickandmortyapi.com/api/character/avatar/304.jpeg,Male,Scary Brandon,1
+305,https://rickandmortyapi.com/api/character/avatar/305.jpeg,Male,Scary Glenn,1
+306,https://rickandmortyapi.com/api/character/avatar/306.jpeg,Male,Scary Terry,1
+307,https://rickandmortyapi.com/api/character/avatar/307.jpeg,Male,Scroopy Noopers,1
+308,https://rickandmortyapi.com/api/character/avatar/308.jpeg,Male,Scropon,2
+309,https://rickandmortyapi.com/api/character/avatar/309.jpeg,Male,Scrotian,4
+310,https://rickandmortyapi.com/api/character/avatar/310.jpeg,Male,Self-Congratulatory Jerry,1
+311,https://rickandmortyapi.com/api/character/avatar/311.jpeg,Male,Shimshamian,3
+312,https://rickandmortyapi.com/api/character/avatar/312.jpeg,unknown,Shlaammi,1
+313,https://rickandmortyapi.com/api/character/avatar/313.jpeg,Male,Shleemypants,2
+314,https://rickandmortyapi.com/api/character/avatar/314.jpeg,Female,Shmlamantha Shmlicelli,1
+315,https://rickandmortyapi.com/api/character/avatar/315.jpeg,Female,Shmlangela Shmlobinson-Shmlower,1
+316,https://rickandmortyapi.com/api/character/avatar/316.jpeg,Female,Shmlona Shmlobinson,1
+317,https://rickandmortyapi.com/api/character/avatar/317.jpeg,Male,Shmlonathan Shmlower,1
+318,https://rickandmortyapi.com/api/character/avatar/318.jpeg,Male,Shmlony Shmlicelli,1
+319,https://rickandmortyapi.com/api/character/avatar/319.jpeg,Male,Shmooglite Runner,1
+320,https://rickandmortyapi.com/api/character/avatar/320.jpeg,Male,Shnoopy Bloopers,1
+321,https://rickandmortyapi.com/api/character/avatar/321.jpeg,Male,Shrimply Pibbles,1
+322,https://rickandmortyapi.com/api/character/avatar/322.jpeg,Male,Simple Rick,1
+323,https://rickandmortyapi.com/api/character/avatar/323.jpeg,Male,Slaveowner,1
+324,https://rickandmortyapi.com/api/character/avatar/324.jpeg,Male,Sleepy Gary,1
+325,https://rickandmortyapi.com/api/character/avatar/325.jpeg,Male,Slick Morty,1
+326,https://rickandmortyapi.com/api/character/avatar/326.jpeg,Male,Slippery Stair,2
+327,https://rickandmortyapi.com/api/character/avatar/327.jpeg,Male,Slow Mobius,1
+328,https://rickandmortyapi.com/api/character/avatar/328.jpeg,Male,Slow Rick,1
+329,https://rickandmortyapi.com/api/character/avatar/329.jpeg,Male,Snuffles (Snowball),8
+330,https://rickandmortyapi.com/api/character/avatar/330.jpeg,Male,Solicitor Rick,2
+331,https://rickandmortyapi.com/api/character/avatar/331.jpeg,Male,Squanchy,3
+332,https://rickandmortyapi.com/api/character/avatar/332.jpeg,Female,Stacy,1
+333,https://rickandmortyapi.com/api/character/avatar/333.jpeg,Genderless,Stair Goblin,3
+334,https://rickandmortyapi.com/api/character/avatar/334.jpeg,Male,Stealy,1
+335,https://rickandmortyapi.com/api/character/avatar/335.jpeg,Male,Steve,1
+336,https://rickandmortyapi.com/api/character/avatar/336.jpeg,Male,Steven Phillips,1
+337,https://rickandmortyapi.com/api/character/avatar/337.jpeg,Male,Stu,1
+338,https://rickandmortyapi.com/api/character/avatar/338.jpeg,Female,Summer Smith,7
+339,https://rickandmortyapi.com/api/character/avatar/339.jpeg,Female,Summer Smith,1
+340,https://rickandmortyapi.com/api/character/avatar/340.jpeg,Female,Supernova,1
+341,https://rickandmortyapi.com/api/character/avatar/341.jpeg,Male,Taddy Mason,1
+342,https://rickandmortyapi.com/api/character/avatar/342.jpeg,Male,Taint Washer,1
+343,https://rickandmortyapi.com/api/character/avatar/343.jpeg,Female,Tammy Guetermann,2
+344,https://rickandmortyapi.com/api/character/avatar/344.jpeg,Female,Tammy Guetermann,5
+345,https://rickandmortyapi.com/api/character/avatar/345.jpeg,Male,Teacher Rick,1
+346,https://rickandmortyapi.com/api/character/avatar/346.jpeg,Male,Terry,1
+347,https://rickandmortyapi.com/api/character/avatar/347.jpeg,Male,President Curtis,5
+348,https://rickandmortyapi.com/api/character/avatar/348.jpeg,Male,The President of the Miniverse,1
+349,https://rickandmortyapi.com/api/character/avatar/349.jpeg,Male,The Scientist Formerly Known as Rick,1
+350,https://rickandmortyapi.com/api/character/avatar/350.jpeg,Male,Thomas Lipkip,1
+351,https://rickandmortyapi.com/api/character/avatar/351.jpeg,unknown,Three Unknown Things,1
+352,https://rickandmortyapi.com/api/character/avatar/352.jpeg,Female,Tinkles,1
+353,https://rickandmortyapi.com/api/character/avatar/353.jpeg,Male,Tiny Rick,1
+354,https://rickandmortyapi.com/api/character/avatar/354.jpeg,Male,Toby Matthews,1
+355,https://rickandmortyapi.com/api/character/avatar/355.jpeg,Male,Todd Crystal,1
+356,https://rickandmortyapi.com/api/character/avatar/356.jpeg,Male,Tom Randolph,1
+357,https://rickandmortyapi.com/api/character/avatar/357.jpeg,Male,Tommy's Clone,1
+358,https://rickandmortyapi.com/api/character/avatar/358.jpeg,Male,Tophat Jones,3
+359,https://rickandmortyapi.com/api/character/avatar/359.jpeg,Male,Tortured Morty,1
+360,https://rickandmortyapi.com/api/character/avatar/360.jpeg,Male,Toxic Morty,1
+361,https://rickandmortyapi.com/api/character/avatar/361.jpeg,Male,Toxic Rick,1
+362,https://rickandmortyapi.com/api/character/avatar/362.jpeg,unknown,Traflorkian,5
+363,https://rickandmortyapi.com/api/character/avatar/363.jpeg,Male,Trandor,1
+364,https://rickandmortyapi.com/api/character/avatar/364.jpeg,unknown,Tree Person,1
+365,https://rickandmortyapi.com/api/character/avatar/365.jpeg,Female,Tricia Lange,5
+366,https://rickandmortyapi.com/api/character/avatar/366.jpeg,Male,Trunk Morty,1
+367,https://rickandmortyapi.com/api/character/avatar/367.jpeg,Male,Trunk Man,2
+368,https://rickandmortyapi.com/api/character/avatar/368.jpeg,Male,Truth Tortoise,1
+369,https://rickandmortyapi.com/api/character/avatar/369.jpeg,Male,Tusked Assassin,1
+370,https://rickandmortyapi.com/api/character/avatar/370.jpeg,Male,Two Guys with Handlebar Mustaches,1
+371,https://rickandmortyapi.com/api/character/avatar/371.jpeg,Male,Tumblorkian,1
+372,https://rickandmortyapi.com/api/character/avatar/372.jpeg,Genderless,Unity,1
+373,https://rickandmortyapi.com/api/character/avatar/373.jpeg,Male,Unmuscular Michael,1
+374,https://rickandmortyapi.com/api/character/avatar/374.jpeg,Male,Vampire Master,1
+375,https://rickandmortyapi.com/api/character/avatar/375.jpeg,Male,Vance Maximus,1
+376,https://rickandmortyapi.com/api/character/avatar/376.jpeg,Female,Veronica Ann Bennet,1
+377,https://rickandmortyapi.com/api/character/avatar/377.jpeg,unknown,Voltematron,1
+378,https://rickandmortyapi.com/api/character/avatar/378.jpeg,Male,Wall Crawling Rick,1
+379,https://rickandmortyapi.com/api/character/avatar/379.jpeg,Male,Wedding Bartender,1
+380,https://rickandmortyapi.com/api/character/avatar/380.jpeg,Male,Unknown Rick,2
+381,https://rickandmortyapi.com/api/character/avatar/381.jpeg,Female,Woman Rick,1
+382,https://rickandmortyapi.com/api/character/avatar/382.jpeg,Male,Worldender,1
+383,https://rickandmortyapi.com/api/character/avatar/383.jpeg,Male,Yaarb,1
+384,https://rickandmortyapi.com/api/character/avatar/384.jpeg,Male,Yellow Headed Doctor,1
+385,https://rickandmortyapi.com/api/character/avatar/385.jpeg,Male,Yellow Shirt Rick,1
+386,https://rickandmortyapi.com/api/character/avatar/386.jpeg,Female,Zarbadar Gloonch,2
+387,https://rickandmortyapi.com/api/character/avatar/387.jpeg,Female,Zarbadar's Mytholog,1
+388,https://rickandmortyapi.com/api/character/avatar/388.jpeg,Male,Zeep Xanflorp,1
+389,https://rickandmortyapi.com/api/character/avatar/389.jpeg,Male,Zeta Alpha Rick,4
+390,https://rickandmortyapi.com/api/character/avatar/390.jpeg,Male,Zick Zack,1
+391,https://rickandmortyapi.com/api/character/avatar/391.jpeg,Male,Uncle Steve,1
+392,https://rickandmortyapi.com/api/character/avatar/392.jpeg,Male,Bearded Morty,2
+393,https://rickandmortyapi.com/api/character/avatar/393.jpeg,Male,Roy,1
+394,https://rickandmortyapi.com/api/character/avatar/394.jpeg,Male,Davin,2
+395,https://rickandmortyapi.com/api/character/avatar/395.jpeg,unknown,Greebybobe,4
+396,https://rickandmortyapi.com/api/character/avatar/396.jpeg,Male,Scary Teacher,1
+397,https://rickandmortyapi.com/api/character/avatar/397.jpeg,Male,Fido,1
+398,https://rickandmortyapi.com/api/character/avatar/398.jpeg,Male,Accountant dog,1
+399,https://rickandmortyapi.com/api/character/avatar/399.jpeg,Male,Tiny-persons advocacy group lawyer,1
+400,https://rickandmortyapi.com/api/character/avatar/400.jpeg,Male,Giant Judge,1
+401,https://rickandmortyapi.com/api/character/avatar/401.jpeg,Male,Morty Jr's interviewer,1
+402,https://rickandmortyapi.com/api/character/avatar/402.jpeg,Male,Guy from The Bachelor,1
+403,https://rickandmortyapi.com/api/character/avatar/403.jpeg,Male,Corn detective,1
+404,https://rickandmortyapi.com/api/character/avatar/404.jpeg,Male,Michael Jackson,1
+405,https://rickandmortyapi.com/api/character/avatar/405.jpeg,Male,Trunkphobic suspenders guy,4
+406,https://rickandmortyapi.com/api/character/avatar/406.jpeg,unknown,Spiderweb teddy bear,1
+407,https://rickandmortyapi.com/api/character/avatar/407.jpeg,Male,Regular Tyrion Lannister,1
+408,https://rickandmortyapi.com/api/character/avatar/408.jpeg,Male,Quick Mystery Presenter,1
+409,https://rickandmortyapi.com/api/character/avatar/409.jpeg,Male,Mr. Sneezy,1
+410,https://rickandmortyapi.com/api/character/avatar/410.jpeg,Male,Two Brothers,1
+411,https://rickandmortyapi.com/api/character/avatar/411.jpeg,Male,Alien Mexican Armada,1
+412,https://rickandmortyapi.com/api/character/avatar/412.jpeg,unknown,Giant Cat Monster,1
+413,https://rickandmortyapi.com/api/character/avatar/413.jpeg,Female,Old Women,1
+414,https://rickandmortyapi.com/api/character/avatar/414.jpeg,Male,Trunkphobic guy,1
+415,https://rickandmortyapi.com/api/character/avatar/415.jpeg,Male,Pro trunk people marriage guy,1
+416,https://rickandmortyapi.com/api/character/avatar/416.jpeg,Male,Muscular Mannie,1
+417,https://rickandmortyapi.com/api/character/avatar/417.jpeg,Male,Baby Legs Chief,1
+418,https://rickandmortyapi.com/api/character/avatar/418.jpeg,Male,Mrs. Sullivan's Boyfriend,1
+419,https://rickandmortyapi.com/api/character/avatar/419.jpeg,Female,Plutonian Hostess,1
+420,https://rickandmortyapi.com/api/character/avatar/420.jpeg,Male,Plutonian Host,1
+421,https://rickandmortyapi.com/api/character/avatar/421.jpeg,Female,Rich Plutonian,1
+422,https://rickandmortyapi.com/api/character/avatar/422.jpeg,Male,Rich Plutonian,1
+423,https://rickandmortyapi.com/api/character/avatar/423.jpeg,unknown,Synthetic Laser Eels,1
+424,https://rickandmortyapi.com/api/character/avatar/424.jpeg,Male,Pizza-person,1
+425,https://rickandmortyapi.com/api/character/avatar/425.jpeg,Male,Pizza-person,1
+426,https://rickandmortyapi.com/api/character/avatar/426.jpeg,Female,Greasy Grandma,1
+427,https://rickandmortyapi.com/api/character/avatar/427.jpeg,Male,Phone-person,1
+428,https://rickandmortyapi.com/api/character/avatar/428.jpeg,Male,Phone-person,1
+429,https://rickandmortyapi.com/api/character/avatar/429.jpeg,Male,Chair-person,1
+430,https://rickandmortyapi.com/api/character/avatar/430.jpeg,Male,Chair-person,1
+431,https://rickandmortyapi.com/api/character/avatar/431.jpeg,Male,Chair-homeless,1
+432,https://rickandmortyapi.com/api/character/avatar/432.jpeg,Male,Chair-waiter,1
+433,https://rickandmortyapi.com/api/character/avatar/433.jpeg,unknown,Doopidoo,1
+434,https://rickandmortyapi.com/api/character/avatar/434.jpeg,Male,Super Weird Rick,1
+435,https://rickandmortyapi.com/api/character/avatar/435.jpeg,unknown,Pripudlian,4
+436,https://rickandmortyapi.com/api/character/avatar/436.jpeg,unknown,Giant Testicle Monster,2
+437,https://rickandmortyapi.com/api/character/avatar/437.jpeg,Male,Michael,1
+438,https://rickandmortyapi.com/api/character/avatar/438.jpeg,Male,Michael's Lawyer,1
+439,https://rickandmortyapi.com/api/character/avatar/439.jpeg,Female,Veterinary,1
+440,https://rickandmortyapi.com/api/character/avatar/440.jpeg,Male,Veterinary Nurse,1
+441,https://rickandmortyapi.com/api/character/avatar/441.jpeg,Male,Bearded Jerry,1
+442,https://rickandmortyapi.com/api/character/avatar/442.jpeg,Male,Shaved Head Jerry,1
+443,https://rickandmortyapi.com/api/character/avatar/443.jpeg,Male,Tank Top Jerry,1
+444,https://rickandmortyapi.com/api/character/avatar/444.jpeg,Male,Pink Polo Shirt Jerry,1
+445,https://rickandmortyapi.com/api/character/avatar/445.jpeg,Female,Jerryboree Keeper,1
+446,https://rickandmortyapi.com/api/character/avatar/446.jpeg,Male,Jerryboree Receptionist,1
+447,https://rickandmortyapi.com/api/character/avatar/447.jpeg,Male,Anchor Gear,1
+448,https://rickandmortyapi.com/api/character/avatar/448.jpeg,Male,Gear Cop,1
+449,https://rickandmortyapi.com/api/character/avatar/449.jpeg,Female,Roy's Mum,1
+450,https://rickandmortyapi.com/api/character/avatar/450.jpeg,Male,Roy's Wife,1
+451,https://rickandmortyapi.com/api/character/avatar/451.jpeg,Male,Roy's Son,1
+452,https://rickandmortyapi.com/api/character/avatar/452.jpeg,Male,Simon,1
+453,https://rickandmortyapi.com/api/character/avatar/453.jpeg,Male,Vampire Master's Assistant,1
+454,https://rickandmortyapi.com/api/character/avatar/454.jpeg,unknown,Arbolian Mentirososian,3
+455,https://rickandmortyapi.com/api/character/avatar/455.jpeg,Female,St. Gloopy Noops Nurse,1
+456,https://rickandmortyapi.com/api/character/avatar/456.jpeg,Male,Nano Doctor,1
+457,https://rickandmortyapi.com/api/character/avatar/457.jpeg,Male,Funny Songs Presenter,1
+458,https://rickandmortyapi.com/api/character/avatar/458.jpeg,Male,Tax Attorney,1
+459,https://rickandmortyapi.com/api/character/avatar/459.jpeg,Male,Butthole Ice Cream Guy,1
+460,https://rickandmortyapi.com/api/character/avatar/460.jpeg,Male,Traflorkian Journalist,1
+461,https://rickandmortyapi.com/api/character/avatar/461.jpeg,Male,Communication's Responsible Rick,1
+462,https://rickandmortyapi.com/api/character/avatar/462.jpeg,Male,Teleportation's Responsible Rick,1
+463,https://rickandmortyapi.com/api/character/avatar/463.jpeg,Male,SEAL Team Rick,1
+464,https://rickandmortyapi.com/api/character/avatar/464.jpeg,Male,SEAL Team Rick,1
+465,https://rickandmortyapi.com/api/character/avatar/465.jpeg,Male,SEAL Team Rick,1
+466,https://rickandmortyapi.com/api/character/avatar/466.jpeg,Male,SEAL Team Rick,1
+467,https://rickandmortyapi.com/api/character/avatar/467.jpeg,Male,Morphizer-XE Customer Support,1
+468,https://rickandmortyapi.com/api/character/avatar/468.jpeg,Male,Morphizer-XE Customer Support,1
+469,https://rickandmortyapi.com/api/character/avatar/469.jpeg,Male,Morphizer-XE Customer Support,1
+470,https://rickandmortyapi.com/api/character/avatar/470.jpeg,Male,Alien Spa Employee,1
+471,https://rickandmortyapi.com/api/character/avatar/471.jpeg,Genderless,Little Voltron,1
+472,https://rickandmortyapi.com/api/character/avatar/472.jpeg,Male,Baby Rick,1
+473,https://rickandmortyapi.com/api/character/avatar/473.jpeg,Male,Bartender Morty,1
+474,https://rickandmortyapi.com/api/character/avatar/474.jpeg,Male,Dancer Cowboy Morty,1
+475,https://rickandmortyapi.com/api/character/avatar/475.jpeg,Male,Dancer Morty,1
+476,https://rickandmortyapi.com/api/character/avatar/476.jpeg,Male,Flower Morty,1
+477,https://rickandmortyapi.com/api/character/avatar/477.jpeg,Male,Hairdresser Rick,1
+478,https://rickandmortyapi.com/api/character/avatar/478.jpeg,Male,Journalist Rick,1
+479,https://rickandmortyapi.com/api/character/avatar/479.jpeg,Male,Private Sector Rick,1
+480,https://rickandmortyapi.com/api/character/avatar/480.jpeg,Male,Purple Morty,1
+481,https://rickandmortyapi.com/api/character/avatar/481.jpeg,Male,Retired General Rick,1
+482,https://rickandmortyapi.com/api/character/avatar/482.jpeg,Male,Secret Service Rick,1
+483,https://rickandmortyapi.com/api/character/avatar/483.jpeg,Male,Steve Jobs Rick,1
+484,https://rickandmortyapi.com/api/character/avatar/484.jpeg,Male,Sheik Rick,1
+485,https://rickandmortyapi.com/api/character/avatar/485.jpeg,Male,Modern Rick,1
+486,https://rickandmortyapi.com/api/character/avatar/486.jpeg,Male,Tan Rick,1
+487,https://rickandmortyapi.com/api/character/avatar/487.jpeg,Male,Visor Rick,1
+488,https://rickandmortyapi.com/api/character/avatar/488.jpeg,Male,Colonial Rick,1
+489,https://rickandmortyapi.com/api/character/avatar/489.jpeg,Male,P-Coat Rick,1
+490,https://rickandmortyapi.com/api/character/avatar/490.jpeg,Male,Chang,1
+491,https://rickandmortyapi.com/api/character/avatar/491.jpeg,Female,Dr. Eleanor Arroway,1
+492,https://rickandmortyapi.com/api/character/avatar/492.jpeg,unknown,Varrix,1
+493,https://rickandmortyapi.com/api/character/avatar/493.jpeg,Male,Secretary of the Interior,1
+494,https://rickandmortyapi.com/api/character/avatar/494.jpeg,Male,Crystal Poacher,1
+495,https://rickandmortyapi.com/api/character/avatar/495.jpeg,Male,Crystal Poacher,1
+496,https://rickandmortyapi.com/api/character/avatar/496.jpeg,Male,Crystal Poacher,1
+497,https://rickandmortyapi.com/api/character/avatar/497.jpeg,Male,Hologram Rick,1
+498,https://rickandmortyapi.com/api/character/avatar/498.jpeg,Male,Fascist Rick,1
+499,https://rickandmortyapi.com/api/character/avatar/499.jpeg,Male,Fascist Morty,1
+500,https://rickandmortyapi.com/api/character/avatar/500.jpeg,Male,Fascist Mr. President,1
+501,https://rickandmortyapi.com/api/character/avatar/501.jpeg,Male,Fascist Rick’s Clone,1
+502,https://rickandmortyapi.com/api/character/avatar/502.jpeg,Male,Revolio Clockberg Jr.,1
+503,https://rickandmortyapi.com/api/character/avatar/503.jpeg,Male,Fascist Shrimp Rick,1
+504,https://rickandmortyapi.com/api/character/avatar/504.jpeg,Male,Fascist Shrimp Rick’s Clone,1
+505,https://rickandmortyapi.com/api/character/avatar/505.jpeg,Male,Fascist Shrimp Morty,1
+506,https://rickandmortyapi.com/api/character/avatar/506.jpeg,Male,Fascist Shrimp SS,1
+507,https://rickandmortyapi.com/api/character/avatar/507.jpeg,Male,Fascist Teddy Bear Rick,1
+508,https://rickandmortyapi.com/api/character/avatar/508.jpeg,Male,Fascist Teddy Bear Rick’s Clone,1
+509,https://rickandmortyapi.com/api/character/avatar/509.jpeg,Male,Bully,1
+510,https://rickandmortyapi.com/api/character/avatar/510.jpeg,Male,Anchorman,1
+511,https://rickandmortyapi.com/api/character/avatar/511.jpeg,Female,Anchorwoman,1
+512,https://rickandmortyapi.com/api/character/avatar/512.jpeg,Male,Morty’s Lawyer,1
+513,https://rickandmortyapi.com/api/character/avatar/513.jpeg,Female,Judge,1
+514,https://rickandmortyapi.com/api/character/avatar/514.jpeg,Female,Public Opinion Judge,1
+515,https://rickandmortyapi.com/api/character/avatar/515.jpeg,Male,Caterpillar Mr. Goldenfold,1
+516,https://rickandmortyapi.com/api/character/avatar/516.jpeg,Male,Wasp Rick,1
+517,https://rickandmortyapi.com/api/character/avatar/517.jpeg,Male,Wasp Rick’s Clone,1
+518,https://rickandmortyapi.com/api/character/avatar/518.jpeg,Male,Wasp Morty,1
+519,https://rickandmortyapi.com/api/character/avatar/519.jpeg,Female,Wasp Summer,1
+520,https://rickandmortyapi.com/api/character/avatar/520.jpeg,Male,Wasp Jerry,1
+521,https://rickandmortyapi.com/api/character/avatar/521.jpeg,Female,Wasp Beth,1
+522,https://rickandmortyapi.com/api/character/avatar/522.jpeg,unknown,Caterpillar Mr. Goldenfold’s Larvae,1
+523,https://rickandmortyapi.com/api/character/avatar/523.jpeg,unknown,Boglin,1
+524,https://rickandmortyapi.com/api/character/avatar/524.jpeg,Male,Kirkland Brand Mr. Meeseeks,1
+525,https://rickandmortyapi.com/api/character/avatar/525.jpeg,Male,Glootie,1
+526,https://rickandmortyapi.com/api/character/avatar/526.jpeg,Male,Danny Publitz,1
+527,https://rickandmortyapi.com/api/character/avatar/527.jpeg,Male,Mothership Intern,1
+528,https://rickandmortyapi.com/api/character/avatar/528.jpeg,Male,Monogatron Leader,1
+529,https://rickandmortyapi.com/api/character/avatar/529.jpeg,Male,Lizard,1
+530,https://rickandmortyapi.com/api/character/avatar/530.jpeg,Genderless,Deliverance,1
+531,https://rickandmortyapi.com/api/character/avatar/531.jpeg,Male,Tony,1
+532,https://rickandmortyapi.com/api/character/avatar/532.jpeg,Female,Tony’s Wife,1
+533,https://rickandmortyapi.com/api/character/avatar/533.jpeg,Female,Monogatron Queen,1
+534,https://rickandmortyapi.com/api/character/avatar/534.jpeg,Male,Tony's Dad,1
+535,https://rickandmortyapi.com/api/character/avatar/535.jpeg,Male,Jeff,1
+536,https://rickandmortyapi.com/api/character/avatar/536.jpeg,Male,Josiah,1
+537,https://rickandmortyapi.com/api/character/avatar/537.jpeg,Female,Maggie,1
+538,https://rickandmortyapi.com/api/character/avatar/538.jpeg,Male,Priest Witherspoon,1
+539,https://rickandmortyapi.com/api/character/avatar/539.jpeg,Male,Richard,1
+540,https://rickandmortyapi.com/api/character/avatar/540.jpeg,Male,Running Bird,1
+541,https://rickandmortyapi.com/api/character/avatar/541.jpeg,Female,Secretary at Tony's,1
+542,https://rickandmortyapi.com/api/character/avatar/542.jpeg,Male,Mountain Sweat Jerry,1
+543,https://rickandmortyapi.com/api/character/avatar/543.jpeg,Male,Vermigurber,1
+544,https://rickandmortyapi.com/api/character/avatar/544.jpeg,Male,Miles Knightly,1
+545,https://rickandmortyapi.com/api/character/avatar/545.jpeg,Female,Heist-Con Receptionist,1
+546,https://rickandmortyapi.com/api/character/avatar/546.jpeg,Female,Angie Flint,1
+547,https://rickandmortyapi.com/api/character/avatar/547.jpeg,Male,Glar,1
+548,https://rickandmortyapi.com/api/character/avatar/548.jpeg,Male,Truckula,1
+549,https://rickandmortyapi.com/api/character/avatar/549.jpeg,Male,Snake Arms,1
+550,https://rickandmortyapi.com/api/character/avatar/550.jpeg,Male,Double Microwawe,1
+551,https://rickandmortyapi.com/api/character/avatar/551.jpeg,Male,Monitor Lord,1
+552,https://rickandmortyapi.com/api/character/avatar/552.jpeg,Female,Key Catcher,1
+553,https://rickandmortyapi.com/api/character/avatar/553.jpeg,Female,The Shapeshiftress,1
+554,https://rickandmortyapi.com/api/character/avatar/554.jpeg,Genderless,Heistotron,1
+555,https://rickandmortyapi.com/api/character/avatar/555.jpeg,Genderless,Randotron,1
+556,https://rickandmortyapi.com/api/character/avatar/556.jpeg,Male,Hephaestus,1
+557,https://rickandmortyapi.com/api/character/avatar/557.jpeg,Female,Ventriloquiver,1
+558,https://rickandmortyapi.com/api/character/avatar/558.jpeg,Male,Elon Tusk,1
+559,https://rickandmortyapi.com/api/character/avatar/559.jpeg,Male,Gramuflackian Anchorman,1
+560,https://rickandmortyapi.com/api/character/avatar/560.jpeg,Male,Gramuflackian General,1
+561,https://rickandmortyapi.com/api/character/avatar/561.jpeg,Male,Netflix Executive,1
+562,https://rickandmortyapi.com/api/character/avatar/562.jpeg,Male,Balthromaw,1
+563,https://rickandmortyapi.com/api/character/avatar/563.jpeg,Male,The Wizard,1
+564,https://rickandmortyapi.com/api/character/avatar/564.jpeg,Male,Talking Cat,1
+565,https://rickandmortyapi.com/api/character/avatar/565.jpeg,Male,Debrah,1
+566,https://rickandmortyapi.com/api/character/avatar/566.jpeg,Male,Debrah’s Partner,1
+567,https://rickandmortyapi.com/api/character/avatar/567.jpeg,Male,Michael,1
+568,https://rickandmortyapi.com/api/character/avatar/568.jpeg,Male,Slut Dragon,1
+569,https://rickandmortyapi.com/api/character/avatar/569.jpeg,Male,Shadow Jacker,1
+570,https://rickandmortyapi.com/api/character/avatar/570.jpeg,Male,Chachi,1
+571,https://rickandmortyapi.com/api/character/avatar/571.jpeg,Female,Slippy,1
+572,https://rickandmortyapi.com/api/character/avatar/572.jpeg,Genderless,Robot Snake,1
+573,https://rickandmortyapi.com/api/character/avatar/573.jpeg,Male,Snake Hitler,1
+574,https://rickandmortyapi.com/api/character/avatar/574.jpeg,Male,Snake Lincoln,1
+575,https://rickandmortyapi.com/api/character/avatar/575.jpeg,Genderless,Snake Resistance Robot,1
+576,https://rickandmortyapi.com/api/character/avatar/576.jpeg,Male,Snake Linguist,1
+577,https://rickandmortyapi.com/api/character/avatar/577.jpeg,Male,Snake Terminator,1
+578,https://rickandmortyapi.com/api/character/avatar/578.jpeg,Male,Snake Soldier,1
+579,https://rickandmortyapi.com/api/character/avatar/579.jpeg,Male,Snake with Legs,1
+580,https://rickandmortyapi.com/api/character/avatar/580.jpeg,Male,Secret Service Snake,1
+581,https://rickandmortyapi.com/api/character/avatar/581.jpeg,Male,Anchosnake,1
+582,https://rickandmortyapi.com/api/character/avatar/582.jpeg,Female,Anchosnake,1
+583,https://rickandmortyapi.com/api/character/avatar/583.jpeg,Male,80's snake,1
+584,https://rickandmortyapi.com/api/character/avatar/584.jpeg,Male,Bar Customer,1
+585,https://rickandmortyapi.com/api/character/avatar/585.jpeg,Female,Bartender,1
+586,https://rickandmortyapi.com/api/character/avatar/586.jpeg,Male,PC Basketball Player,1
+587,https://rickandmortyapi.com/api/character/avatar/587.jpeg,Male,Cavesnake,1
+588,https://rickandmortyapi.com/api/character/avatar/588.jpeg,Male,Pet Shop Employee,1
+589,https://rickandmortyapi.com/api/character/avatar/589.jpeg,Male,Snake Reporter,1
+590,https://rickandmortyapi.com/api/character/avatar/590.jpeg,Male,High Pilot,1
+591,https://rickandmortyapi.com/api/character/avatar/591.jpeg,Male,High Pilot,1
+592,https://rickandmortyapi.com/api/character/avatar/592.jpeg,Male,Phoenixperson,3
+593,https://rickandmortyapi.com/api/character/avatar/593.jpeg,Male,Tickets Please Guy,1
+594,https://rickandmortyapi.com/api/character/avatar/594.jpeg,Male,Floaty Bloody Man,1
+595,https://rickandmortyapi.com/api/character/avatar/595.jpeg,Male,Floaty Non-Gasm Brotherhood Member,1
+596,https://rickandmortyapi.com/api/character/avatar/596.jpeg,Female,Floaty Non-Gasm Brotherhood Member Friend,1
+597,https://rickandmortyapi.com/api/character/avatar/597.jpeg,Male,Abradolf Lincler,1
+598,https://rickandmortyapi.com/api/character/avatar/598.jpeg,Male,Biblesaurus,1
+599,https://rickandmortyapi.com/api/character/avatar/599.jpeg,Male,Birdperson,1
+600,https://rickandmortyapi.com/api/character/avatar/600.jpeg,Female,Cats Fan,1
+601,https://rickandmortyapi.com/api/character/avatar/601.jpeg,Male,Christmas Storyteller,1
+602,https://rickandmortyapi.com/api/character/avatar/602.jpeg,Male,Cookies Guy,1
+603,https://rickandmortyapi.com/api/character/avatar/603.jpeg,Genderless,Crossy,1
+604,https://rickandmortyapi.com/api/character/avatar/604.jpeg,Female,Female Scorpion,1
+605,https://rickandmortyapi.com/api/character/avatar/605.jpeg,Female,Floaty Bloody Man’s Daughter,1
+606,https://rickandmortyapi.com/api/character/avatar/606.jpeg,Male,Goomby,1
+607,https://rickandmortyapi.com/api/character/avatar/607.jpeg,Female,Hairspray Fan,1
+608,https://rickandmortyapi.com/api/character/avatar/608.jpeg,Male,Jesus Christ,1
+609,https://rickandmortyapi.com/api/character/avatar/609.jpeg,Male,Josh,1
+610,https://rickandmortyapi.com/api/character/avatar/610.jpeg,Female,Josh's Sister,1
+611,https://rickandmortyapi.com/api/character/avatar/611.jpeg,Female,Leah,1
+612,https://rickandmortyapi.com/api/character/avatar/612.jpeg,Male,Marcus,1
+613,https://rickandmortyapi.com/api/character/avatar/613.jpeg,Male,Mike Johnson,1
+614,https://rickandmortyapi.com/api/character/avatar/614.jpeg,Genderless,Mr. Celery & Friends,1
+615,https://rickandmortyapi.com/api/character/avatar/615.jpeg,Male,Musical Fan,1
+616,https://rickandmortyapi.com/api/character/avatar/616.jpeg,Male,Phantom of the Opera Fan,1
+617,https://rickandmortyapi.com/api/character/avatar/617.jpeg,Male,Phoenixperson,1
+618,https://rickandmortyapi.com/api/character/avatar/618.jpeg,Male,Private Smith,1
+619,https://rickandmortyapi.com/api/character/avatar/619.jpeg,Male,Professor Sanchez,1
+620,https://rickandmortyapi.com/api/character/avatar/620.jpeg,Male,Ramamama Lord,1
+621,https://rickandmortyapi.com/api/character/avatar/621.jpeg,Female,Ruth Bader Ginsburg,1
+622,https://rickandmortyapi.com/api/character/avatar/622.jpeg,Male,Sarge,1
+623,https://rickandmortyapi.com/api/character/avatar/623.jpeg,Male,Shrek The Musical Fan,1
+624,https://rickandmortyapi.com/api/character/avatar/624.jpeg,Male,Snuffles,1
+625,https://rickandmortyapi.com/api/character/avatar/625.jpeg,Male,Storylord,1
+626,https://rickandmortyapi.com/api/character/avatar/626.jpeg,Female,Tammy Guetermann,1
+627,https://rickandmortyapi.com/api/character/avatar/627.jpeg,Genderless,The Concept of Time,1
+628,https://rickandmortyapi.com/api/character/avatar/628.jpeg,Female,Beth Smith,1
+629,https://rickandmortyapi.com/api/character/avatar/629.jpeg,Female,Summer Smith,1
+630,https://rickandmortyapi.com/api/character/avatar/630.jpeg,Male,Morty Smith,1
+631,https://rickandmortyapi.com/api/character/avatar/631.jpeg,Male,Rick Sanchez,1
+632,https://rickandmortyapi.com/api/character/avatar/632.jpeg,Male,Train Cop,1
+633,https://rickandmortyapi.com/api/character/avatar/633.jpeg,Female,Train Cops,1
+634,https://rickandmortyapi.com/api/character/avatar/634.jpeg,Male,Train Cops Instructor,1
+635,https://rickandmortyapi.com/api/character/avatar/635.jpeg,Male,Darth Poopybutthole,1
+636,https://rickandmortyapi.com/api/character/avatar/636.jpeg,Male,Evil Morty,1
+637,https://rickandmortyapi.com/api/character/avatar/637.jpeg,Female,Morty’s Disguise,1
+638,https://rickandmortyapi.com/api/character/avatar/638.jpeg,Male,Rick’s Disguise,1
+639,https://rickandmortyapi.com/api/character/avatar/639.jpeg,Male,Uncle Nibbles,1
+640,https://rickandmortyapi.com/api/character/avatar/640.jpeg,Male,Angry Glorzo,1
+641,https://rickandmortyapi.com/api/character/avatar/641.jpeg,Male,Bruce,1
+642,https://rickandmortyapi.com/api/character/avatar/642.jpeg,Male,Council of Glorzos Member,1
+643,https://rickandmortyapi.com/api/character/avatar/643.jpeg,Male,Council of Glorzos Member,1
+644,https://rickandmortyapi.com/api/character/avatar/644.jpeg,Male,Old Glorzo,1
+645,https://rickandmortyapi.com/api/character/avatar/645.jpeg,Male,Shane,1
+646,https://rickandmortyapi.com/api/character/avatar/646.jpeg,Male,Steve,1
+647,https://rickandmortyapi.com/api/character/avatar/647.jpeg,Male,Troy,1
+648,https://rickandmortyapi.com/api/character/avatar/648.jpeg,Male,Crystal Dealers Boss,1
+649,https://rickandmortyapi.com/api/character/avatar/649.jpeg,Male,Crystal Dealer,1
+650,https://rickandmortyapi.com/api/character/avatar/650.jpeg,Male,Crystal Dealer,1
+651,https://rickandmortyapi.com/api/character/avatar/651.jpeg,Male,Crystal Dealer,1
+652,https://rickandmortyapi.com/api/character/avatar/652.jpeg,Male,SWAT Officer,1
+653,https://rickandmortyapi.com/api/character/avatar/653.jpeg,Female,Plane Crash Survivor,1
+654,https://rickandmortyapi.com/api/character/avatar/654.jpeg,Male,Plane Crash Survivor,1
+655,https://rickandmortyapi.com/api/character/avatar/655.jpeg,Male,Heroine Keith,1
+656,https://rickandmortyapi.com/api/character/avatar/656.jpeg,Male,Impervious to Acid SWAT Officer,1
+657,https://rickandmortyapi.com/api/character/avatar/657.jpeg,Male,Johnny Carson,1
+658,https://rickandmortyapi.com/api/character/avatar/658.jpeg,Female,Sonia Sotomayor,1
+659,https://rickandmortyapi.com/api/character/avatar/659.jpeg,Male,Morty’s Father-in-law,1
+660,https://rickandmortyapi.com/api/character/avatar/660.jpeg,Female,Morty’s Mother-in-law,1
+661,https://rickandmortyapi.com/api/character/avatar/661.jpeg,Female,Morty’s Girlfriend,1
+662,https://rickandmortyapi.com/api/character/avatar/662.jpeg,Female,Gaia,1
+663,https://rickandmortyapi.com/api/character/avatar/663.jpeg,Male,Reggie,1
+664,https://rickandmortyapi.com/api/character/avatar/664.jpeg,Genderless,Ticktock,1
+665,https://rickandmortyapi.com/api/character/avatar/665.jpeg,Genderless,Florflock,1
+666,https://rickandmortyapi.com/api/character/avatar/666.jpeg,Genderless,Squeeb,1
+667,https://rickandmortyapi.com/api/character/avatar/667.jpeg,Female,Defiance Beth,2
+668,https://rickandmortyapi.com/api/character/avatar/668.jpeg,Female,Defiance Squanchette,1
+669,https://rickandmortyapi.com/api/character/avatar/669.jpeg,Male,Defiance Doctor,1
+670,https://rickandmortyapi.com/api/character/avatar/670.jpeg,Male,New Improved Galactic Federation Guard,1
+671,https://rickandmortyapi.com/api/character/avatar/671.jpeg,Male,New Improved Galactic Federation Guard,1
+672,https://rickandmortyapi.com/api/character/avatar/672.jpeg,Male,Mr. Nimbus,1
+673,https://rickandmortyapi.com/api/character/avatar/673.jpeg,Male,Hoovy,1
+674,https://rickandmortyapi.com/api/character/avatar/674.jpeg,Female,Bova,1
+675,https://rickandmortyapi.com/api/character/avatar/675.jpeg,Male,Japheth,1
+676,https://rickandmortyapi.com/api/character/avatar/676.jpeg,Male,Japheth's Middle Son,1
+677,https://rickandmortyapi.com/api/character/avatar/677.jpeg,Male,Japheth's Eldest Son,1
+678,https://rickandmortyapi.com/api/character/avatar/678.jpeg,Male,Japheth's Youngest Son,1
+679,https://rickandmortyapi.com/api/character/avatar/679.jpeg,Male,Japheth's Grandson,1
+680,https://rickandmortyapi.com/api/character/avatar/680.jpeg,Male,Adam,1
+681,https://rickandmortyapi.com/api/character/avatar/681.jpeg,Female,Adam's Mother,1
+682,https://rickandmortyapi.com/api/character/avatar/682.jpeg,Male,Warlock,1
+683,https://rickandmortyapi.com/api/character/avatar/683.jpeg,Male,Evolved Narnian,1
+684,https://rickandmortyapi.com/api/character/avatar/684.jpeg,Female,Mr. Nimbus Secretary,1
+685,https://rickandmortyapi.com/api/character/avatar/685.jpeg,Male,Evolved Narnian Disguised as Morty,1
+686,https://rickandmortyapi.com/api/character/avatar/686.jpeg,Male,Mr. Nimbus' Squid,1
+687,https://rickandmortyapi.com/api/character/avatar/687.jpeg,Male,Scarecrow Rick,1
+688,https://rickandmortyapi.com/api/character/avatar/688.jpeg,Female,Scarecrow Summer,1
+689,https://rickandmortyapi.com/api/character/avatar/689.jpeg,Male,Scarecrow Jerry,1
+690,https://rickandmortyapi.com/api/character/avatar/690.jpeg,Male,Scarecrow Morty,1
+691,https://rickandmortyapi.com/api/character/avatar/691.jpeg,Female,Scarecrow Beth,1
+692,https://rickandmortyapi.com/api/character/avatar/692.jpeg,Male,Glockenspiel Jerry,1
+693,https://rickandmortyapi.com/api/character/avatar/693.jpeg,Female,Glockenspiel Beth,1
+694,https://rickandmortyapi.com/api/character/avatar/694.jpeg,Male,Glockenspiel Rick,1
+695,https://rickandmortyapi.com/api/character/avatar/695.jpeg,Female,Glockenspiel Summer,1
+696,https://rickandmortyapi.com/api/character/avatar/696.jpeg,Male,Glockenspiel Morty,1
+697,https://rickandmortyapi.com/api/character/avatar/697.jpeg,Female,Wicker Beth,1
+698,https://rickandmortyapi.com/api/character/avatar/698.jpeg,Male,Wicker Rick,1
+699,https://rickandmortyapi.com/api/character/avatar/699.jpeg,Male,Wicker Morty,1
+700,https://rickandmortyapi.com/api/character/avatar/700.jpeg,Female,Wicker Summer,1
+701,https://rickandmortyapi.com/api/character/avatar/701.jpeg,Male,Metal Rick,1
+702,https://rickandmortyapi.com/api/character/avatar/702.jpeg,Male,Gun Brain Rick,1
+703,https://rickandmortyapi.com/api/character/avatar/703.jpeg,Male,Mr. Always Wants to be Hunted,1
+704,https://rickandmortyapi.com/api/character/avatar/704.jpeg,Female,Squid Costume Beth,1
+705,https://rickandmortyapi.com/api/character/avatar/705.jpeg,Male,Squid Costume Jerry,1
+706,https://rickandmortyapi.com/api/character/avatar/706.jpeg,Male,Squid Costume Morty,1
+707,https://rickandmortyapi.com/api/character/avatar/707.jpeg,Male,Squid Costume Rick,1
+708,https://rickandmortyapi.com/api/character/avatar/708.jpeg,Female,Squid Costume Summer,1
+709,https://rickandmortyapi.com/api/character/avatar/709.jpeg,Male,Dracula,1
+710,https://rickandmortyapi.com/api/character/avatar/710.jpeg,Male,Steve,1
+711,https://rickandmortyapi.com/api/character/avatar/711.jpeg,Male,When Wolf,1
+712,https://rickandmortyapi.com/api/character/avatar/712.jpeg,Female,Too Cute to Murder Beth,1
+713,https://rickandmortyapi.com/api/character/avatar/713.jpeg,Male,Too Cute to Murder Rick,1
+714,https://rickandmortyapi.com/api/character/avatar/714.jpeg,Male,Too Cute to Murder Jerry,1
+715,https://rickandmortyapi.com/api/character/avatar/715.jpeg,Male,Too Cute to Murder Morty,1
+716,https://rickandmortyapi.com/api/character/avatar/716.jpeg,Female,Too Cute to Murder Summer,1
+717,https://rickandmortyapi.com/api/character/avatar/717.jpeg,Female,Planetina,1
+718,https://rickandmortyapi.com/api/character/avatar/718.jpeg,Female,Daphne,1
+719,https://rickandmortyapi.com/api/character/avatar/719.jpeg,Male,Diesel Weasel,1
+720,https://rickandmortyapi.com/api/character/avatar/720.jpeg,Male,Eddie,1
+721,https://rickandmortyapi.com/api/character/avatar/721.jpeg,Female,Xing Ho,1
+722,https://rickandmortyapi.com/api/character/avatar/722.jpeg,Female,Air Tina-Teer,1
+723,https://rickandmortyapi.com/api/character/avatar/723.jpeg,Male,Water Tina-Teer,1
+724,https://rickandmortyapi.com/api/character/avatar/724.jpeg,Male,Planetina Buyer,1
+725,https://rickandmortyapi.com/api/character/avatar/725.jpeg,Male,Tony Galopagus,1
+726,https://rickandmortyapi.com/api/character/avatar/726.jpeg,Male,Sticky,1
+727,https://rickandmortyapi.com/api/character/avatar/727.jpeg,Male,Professor Shabooboo,1
+728,https://rickandmortyapi.com/api/character/avatar/728.jpeg,Female,Sperm Queen,1
+729,https://rickandmortyapi.com/api/character/avatar/729.jpeg,Male,CHUD King,1
+730,https://rickandmortyapi.com/api/character/avatar/730.jpeg,Female,Princess Ponietta,1
+731,https://rickandmortyapi.com/api/character/avatar/731.jpeg,Male,Naruto Smith,2
+732,https://rickandmortyapi.com/api/character/avatar/732.jpeg,Male,Blazen,1
+733,https://rickandmortyapi.com/api/character/avatar/733.jpeg,Female,Kathy Ireland,1
+734,https://rickandmortyapi.com/api/character/avatar/734.jpeg,Male,Amazing Johnathan,1
+735,https://rickandmortyapi.com/api/character/avatar/735.jpeg,unknown,Foal Sanchez,1
+736,https://rickandmortyapi.com/api/character/avatar/736.jpeg,Male,Spaceman,1
+737,https://rickandmortyapi.com/api/character/avatar/737.jpeg,Female,Cirque du Soleil Zumanity Member,1
+738,https://rickandmortyapi.com/api/character/avatar/738.jpeg,Male,Cirque du Soleil Zumanity Member,1
+739,https://rickandmortyapi.com/api/character/avatar/739.jpeg,Female,Cirque du Soleil Zumanity Member,1
+740,https://rickandmortyapi.com/api/character/avatar/740.jpeg,Female,Cirque du Soleil Zumanity Member,1
+741,https://rickandmortyapi.com/api/character/avatar/741.jpeg,Female,Cirque du Soleil Zumanity Member,1
+742,https://rickandmortyapi.com/api/character/avatar/742.jpeg,Male,Bruce Chutback,1
+743,https://rickandmortyapi.com/api/character/avatar/743.jpeg,Female,Alyson Hannigan,1
+744,https://rickandmortyapi.com/api/character/avatar/744.jpeg,Male,Cenobite,1
+745,https://rickandmortyapi.com/api/character/avatar/745.jpeg,Female,Cenobite,1
+746,https://rickandmortyapi.com/api/character/avatar/746.jpeg,Male,Cenobite,1
+747,https://rickandmortyapi.com/api/character/avatar/747.jpeg,Male,Cenobite,1
+748,https://rickandmortyapi.com/api/character/avatar/748.jpeg,Male,Cenobite,1
+749,https://rickandmortyapi.com/api/character/avatar/749.jpeg,Male,Coat Rack Head,1
+750,https://rickandmortyapi.com/api/character/avatar/750.jpeg,Male,Mousetrap Nipples,1
+751,https://rickandmortyapi.com/api/character/avatar/751.jpeg,Male,Changeformer,1
+752,https://rickandmortyapi.com/api/character/avatar/752.jpeg,Male,Changeformer,1
+753,https://rickandmortyapi.com/api/character/avatar/753.jpeg,Female,Space Cruiser,2
+754,https://rickandmortyapi.com/api/character/avatar/754.jpeg,Male,Coop,1
+755,https://rickandmortyapi.com/api/character/avatar/755.jpeg,Male,Dwayne,1
+756,https://rickandmortyapi.com/api/character/avatar/756.jpeg,Male,Franklin D. Roosevelt,1
+757,https://rickandmortyapi.com/api/character/avatar/757.jpeg,Male,President's General,2
+758,https://rickandmortyapi.com/api/character/avatar/758.jpeg,Female,Giant Assassin Hidden in the Statue of Liberty,1
+759,https://rickandmortyapi.com/api/character/avatar/759.jpeg,Male,Turkey Morty,1
+760,https://rickandmortyapi.com/api/character/avatar/760.jpeg,Male,Turkey Rick,1
+761,https://rickandmortyapi.com/api/character/avatar/761.jpeg,Male,Turkey President Curtis,1
+762,https://rickandmortyapi.com/api/character/avatar/762.jpeg,Male,Martínez,1
+763,https://rickandmortyapi.com/api/character/avatar/763.jpeg,Male,Marvin,1
+764,https://rickandmortyapi.com/api/character/avatar/764.jpeg,Male,Jackey,1
+765,https://rickandmortyapi.com/api/character/avatar/765.jpeg,Male,Native Alien,1
+766,https://rickandmortyapi.com/api/character/avatar/766.jpeg,Male,Pilgrim Alien,1
+767,https://rickandmortyapi.com/api/character/avatar/767.jpeg,Male,President Turkey,1
+768,https://rickandmortyapi.com/api/character/avatar/768.jpeg,Female,Mary-Lou,1
+769,https://rickandmortyapi.com/api/character/avatar/769.jpeg,Male,Big Fat rick,1
+770,https://rickandmortyapi.com/api/character/avatar/770.jpeg,Male,Hothead Rick,1
+771,https://rickandmortyapi.com/api/character/avatar/771.jpeg,Male,Ricardo Montoya,1
+772,https://rickandmortyapi.com/api/character/avatar/772.jpeg,Male,Wrap-it-up Little Rick,1
+773,https://rickandmortyapi.com/api/character/avatar/773.jpeg,Male,Yo-yo Rick,1
+774,https://rickandmortyapi.com/api/character/avatar/774.jpeg,unknown,Voiceoverian,1
+775,https://rickandmortyapi.com/api/character/avatar/775.jpeg,unknown,Voiceoverian,1
+776,https://rickandmortyapi.com/api/character/avatar/776.jpeg,Male,Gotron Pilot,1
+777,https://rickandmortyapi.com/api/character/avatar/777.jpeg,Male,Gotron Pilot,1
+778,https://rickandmortyapi.com/api/character/avatar/778.jpeg,Male,Gotron Pilot,1
+779,https://rickandmortyapi.com/api/character/avatar/779.jpeg,Male,Young Memory Rick,1
+780,https://rickandmortyapi.com/api/character/avatar/780.jpeg,Female,Memory Tammy,1
+781,https://rickandmortyapi.com/api/character/avatar/781.jpeg,Female,Rick's Garage,1
+782,https://rickandmortyapi.com/api/character/avatar/782.jpeg,Male,Memory Squanchy,1
+783,https://rickandmortyapi.com/api/character/avatar/783.jpeg,Male,Memory Rick,1
+784,https://rickandmortyapi.com/api/character/avatar/784.jpeg,Male,Memory Rick,1
+785,https://rickandmortyapi.com/api/character/avatar/785.jpeg,Male,Memory Geardude,1
+786,https://rickandmortyapi.com/api/character/avatar/786.jpeg,Female,Birdperson & Tammy's Child,1
+787,https://rickandmortyapi.com/api/character/avatar/787.jpeg,unknown,Two Crows,2
+788,https://rickandmortyapi.com/api/character/avatar/788.jpeg,Male,Mr. Cookie President,1
+789,https://rickandmortyapi.com/api/character/avatar/789.jpeg,Male,Nick,1
+790,https://rickandmortyapi.com/api/character/avatar/790.jpeg,Male,Harold (Garbage Goober),1
+791,https://rickandmortyapi.com/api/character/avatar/791.jpeg,Female,Harold's Wife,1
+792,https://rickandmortyapi.com/api/character/avatar/792.jpeg,Male,Alien Crow,1
+793,https://rickandmortyapi.com/api/character/avatar/793.jpeg,Female,Alien Crow,1
+794,https://rickandmortyapi.com/api/character/avatar/794.jpeg,Male,Samansky,1
+795,https://rickandmortyapi.com/api/character/avatar/795.jpeg,Male,Palicki,1
+796,https://rickandmortyapi.com/api/character/avatar/796.jpeg,Male,Sarge,1
+797,https://rickandmortyapi.com/api/character/avatar/797.jpeg,Male,Slartivartian,1
+798,https://rickandmortyapi.com/api/character/avatar/798.jpeg,Male,Ferkusian,1
+799,https://rickandmortyapi.com/api/character/avatar/799.jpeg,Male,Morglutzian,1
+800,https://rickandmortyapi.com/api/character/avatar/800.jpeg,Male,Super Turkey,1
+801,https://rickandmortyapi.com/api/character/avatar/801.jpeg,Male,7+7 Years Old Morty,1
+802,https://rickandmortyapi.com/api/character/avatar/802.jpeg,Male,26 Years Old Morty,1
+803,https://rickandmortyapi.com/api/character/avatar/803.jpeg,Male,40 Years Old Morty,1
+804,https://rickandmortyapi.com/api/character/avatar/804.jpeg,Male,Andy,1
+805,https://rickandmortyapi.com/api/character/avatar/805.jpeg,Male,Baby Mouse Skin Morty,1
+806,https://rickandmortyapi.com/api/character/avatar/806.jpeg,Male,Metaphor for Capitalism,1
+807,https://rickandmortyapi.com/api/character/avatar/807.jpeg,Female,Beth Sanchez,1
+808,https://rickandmortyapi.com/api/character/avatar/808.jpeg,Male,Crow Scare,1
+809,https://rickandmortyapi.com/api/character/avatar/809.jpeg,Male,Pussifer,1
+810,https://rickandmortyapi.com/api/character/avatar/810.jpeg,Male,Stan Lee Rick,1
+811,https://rickandmortyapi.com/api/character/avatar/811.jpeg,Male,Re-Build-a-Morty Morty,1
+812,https://rickandmortyapi.com/api/character/avatar/812.jpeg,Male,Deformed Morty,1
+813,https://rickandmortyapi.com/api/character/avatar/813.jpeg,unknown,Crow Horse,1
+814,https://rickandmortyapi.com/api/character/avatar/814.jpeg,Male,Bald Rick,1
+815,https://rickandmortyapi.com/api/character/avatar/815.jpeg,Male,Punk Rick,1
+816,https://rickandmortyapi.com/api/character/avatar/816.jpeg,Male,Party Rick,1
+817,https://rickandmortyapi.com/api/character/avatar/817.jpeg,Male,Scar Rick,1
+818,https://rickandmortyapi.com/api/character/avatar/818.jpeg,Male,Long Hair Rick,1
+819,https://rickandmortyapi.com/api/character/avatar/819.jpeg,Male,Redhead Rick,1
+820,https://rickandmortyapi.com/api/character/avatar/820.jpeg,Male,Redhead Morty,1
+821,https://rickandmortyapi.com/api/character/avatar/821.jpeg,Genderless,Gotron,1
+822,https://rickandmortyapi.com/api/character/avatar/822.jpeg,Male,Young Jerry,1
+823,https://rickandmortyapi.com/api/character/avatar/823.jpeg,Female,Young Beth,1
+824,https://rickandmortyapi.com/api/character/avatar/824.jpeg,Female,Young Beth,1
+825,https://rickandmortyapi.com/api/character/avatar/825.jpeg,Male,Young Jerry,1
+826,https://rickandmortyapi.com/api/character/avatar/826.jpeg,Genderless,Butter Robot,1
